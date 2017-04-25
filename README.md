@@ -1,4 +1,5 @@
-## Welcome to 文道木山的个人博客
+### Welcome to wendamushan's blog
+欢迎来到文道木山的博客
 
 You can use the [editor on GitHub](https://github.com/wendaomu/wendao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
