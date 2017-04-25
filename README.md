@@ -14,8 +14,8 @@
 * 首推 python 的[官方学习资料](https://docs.python.org/3/tutorial/index.html)
 
 * 学习的视频教程 
-  *  链接：https://pan.baidu.com/s/1i432zB3 密码：8p44
-  *  链接：https://pan.baidu.com/s/1o8bihrc 密码：00gh
+  *  [链接 1](https://pan.baidu.com/s/1i432zB3) 密码：8p44
+  *  [链接 2](https://pan.baidu.com/s/1o8bihrc) 密码：00gh
 		
 * 不错的书籍
   * A byte of Python 链接：https://pan.baidu.com/s/1qXZIk5A 密码：g6n6
