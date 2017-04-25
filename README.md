@@ -18,4 +18,4 @@
   *  [链接 2](https://pan.baidu.com/s/1o8bihrc) 密码：00gh
 		
 * 不错的书籍
-  * A byte of Python 链接：https://pan.baidu.com/s/1qXZIk5A 密码：g6n6
+  * [A byte of Python](https://pan.baidu.com/s/1qXZIk5A) 密码：g6n6
