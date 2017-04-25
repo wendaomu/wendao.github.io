@@ -12,7 +12,7 @@
 **(声明：以下所有资料均为网上查找，仅供学习使用，若无意侵犯您的版权，请您及时联系我，我会立即删除)**
 
 给大家推荐一些学习 python 的资料
-* 首推 python 的[官方学习资料](https://docs.python.org/3/tutorial/index.html
+* 首推 python 的[官方学习资料](https://docs.python.org/3/tutorial/index.html)
 
 * 学习的视频教程 
   *  链接：https://pan.baidu.com/s/1i432zB3 密码：8p44
