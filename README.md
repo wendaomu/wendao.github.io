@@ -1,39 +1,6 @@
-### Welcome to wendamushan's blog
-欢迎来到文道木山的博客
+# **Welcome to wendaomushan's blog**
+# *欢迎来到文道慕山的博客*
 
-You can use the [editor on GitHub](https://github.com/wendaomu/wendao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-水木社区
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wendaomu/wendao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Self introduction
+   我是一个刚接触Git的小白，最近突然想用Github做一个博客，来记录自己的一些学习经历，初衷是方便自己的回顾。可能有人会说，既然是自己回顾，直接记录到word 不就行了。但是从我刚开始接触Git起，我就被Git所带来的方便所折服了。同时我也希望自己的所学能够给他人提供一定的帮助，哪怕是一点也好。
+   
