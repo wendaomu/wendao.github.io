@@ -6,9 +6,9 @@
 
 ## **Python的学习**
 ![python](https://www.python.org/static/img/python-logo.png)
-
+待补充
 ## **Github的学习**
-
+待补充
 ## **推荐**
 > **(郑重声明：以下所有资料均为网上查找，仅供学习使用，若无意侵犯您的版权，请您及时联系我，我会立即删除)**
 
