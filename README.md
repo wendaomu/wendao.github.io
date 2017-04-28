@@ -25,3 +25,5 @@
   * 机器学习算法与Python学习 		微信号：guodongwei1991
   * Python的自由            		微信号：bjxsjjzx
   * 技术极客TechBooster
+  
+*谢谢您的阅读
