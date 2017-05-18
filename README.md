@@ -22,9 +22,12 @@
   * [A byte of Python](https://pan.baidu.com/s/1qXZIk5A) 密码：g6n6
 
 * 相关的公众号
+ 
   * 机器学习算法与Python学习 		微信号：guodongwei1991
+
   * Python的自由            		微信号：bjxsjjzx
-  * 技术极客TechBooster
+
+  * 技术极客TechBooster
 * Pyboard 
   
   * 可以用python 语言编写的单片机，虽然现在还不知道python的发展结果如何，但是从目前的情况来看，python所带来的编程低门槛绝对可以和其他语言相媲美。
