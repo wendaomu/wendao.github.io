@@ -25,7 +25,7 @@
  
   * 机器学习算法与Python学习 		微信号：guodongwei1991
 
-  * Python的自由            	     微信号：wendao_forever
+  * Python的自由 (自己的公众号)            	     微信号：wendao_forever
 
   * 技术极客TechBooster
 * Pyboard 
